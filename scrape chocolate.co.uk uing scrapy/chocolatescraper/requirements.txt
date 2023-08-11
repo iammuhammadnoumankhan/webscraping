@@ -1,0 +1,4 @@
+mysql
+pymysql
+scrapy
+mysql-connector-python
