@@ -4,6 +4,6 @@ For running this project, first of all, install the dependencies by running "pip
 Then, you need to put the username and password for your MySQL in the pipelines.py file.
 The chocolate_scraping.sql file is given, you should first make a database for your PC.
 Then run this command to scrape the data into the MySQL database.
-"scrapy crawl chocolatespider"
+"scrapy crawl chocolatespider".
 If you want to scrape the data into csv file then run, "scrapy crawl chocolatespider -o data.csv"
 If you want to scrape the data to json file then run, "scrapy crawl chocolatespider -o data.json"
